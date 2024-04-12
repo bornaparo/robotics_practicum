@@ -3,6 +3,8 @@
 
 ### Task of this project was to design RRR robot that will collect bricks and drop them at position of black tape utilizing camera and image processing. 
 
+Project was created using MATLAB.
+
 ## Manual mode
 
 Setting joint values, either by slider or input box, you can calculate direct kinematics, it will move robot's joints and display position of the end effector using those joint values.
